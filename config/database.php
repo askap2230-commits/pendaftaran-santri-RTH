@@ -1,10 +1,10 @@
 <?php
 // config/database.php
 class Database {
-    private $host = "localhost";
-    private $db_name = "pesantren_tahfidz";
-    private $username = "root";
-    private $password = "";
+    private $host = "sql100.byetcluster.com";
+    private $db_name = "if0_41736421_pesantren_tahfidz";
+    private $username = "if0_41736421";
+    private $password = "4AgWWZdpPpnF";
     public $conn;
 
     public function getConnection() {
